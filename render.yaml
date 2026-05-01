@@ -1,0 +1,4 @@
+services:
+  - type: web
+    name: relevant-priors-api
+    env: docker
